@@ -1,6 +1,8 @@
 from sklearn import tree
 
 def myML(weight,surface):
+    
+    #Hard Coded Vale (Below is the set of Ball weight and type)
     BallsFeatures =[[35,1],[47,1],[90,0],[48,1],[90,0],[35,1],[92,0],[35,1],[35,1],[35,1],[96,0],[43,1],[110,0],[35,1],[95,0]]
     Names = [1,1,2,1,2,1,2,1,1,1,2,1,2,1,2]
 
